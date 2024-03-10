@@ -18,7 +18,7 @@ Exemplo: Um teclado, ele já vem de fabrica com um número pré-definido de tecl
 Arrays dinâmicos são Arrays onde utilizamos um metodo que aumenta o tamanho dinamicamente.
 Exemplo: Uma playlist, quanto mais músicas você adicionar, maior ela fica.
 
-Lista são uma interface que associa elementos com indice.
+Lista são uma interface que associa elementos com indice, existem vários tipos de listas como a lista baseadas em vetores(Arraylist).
 Exemplo: Alistamento militar, as pessoas são númeradas(indice) e são chamados os melhores candidatos(sem a necessidade de uma ordem de chegada).
 
 Fila são uma interface que usa o principio iguais os da vida cotidiana, o primeiro da fila será o primeiro a sair.
